@@ -7,3 +7,5 @@ f = int(input('Número Final: '))
 p = int(input('Passo: '))
 for c in range(i,f+2, p):
      print(c)
+     
+print("Fim")     
